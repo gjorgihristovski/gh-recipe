@@ -1,10 +1,5 @@
 package net.gjore.recipe.bootstrap;
 
-/**
- * Created by gjorgi.hristovski on 05-Nov-18 in 15:22
- * Created in net.gjore.recipe.bootstrap for recipe
- */
-import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import net.gjore.recipe.domain.*;
@@ -22,8 +17,10 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * Created by jt on 6/13/17.
+ * Created by gjorgi.hristovski on 05-Nov-18 in 15:22
+ * Created in net.gjore.recipe.bootstrap for recipe
  */
+
 @Slf4j
 @RequiredArgsConstructor
 @Component
