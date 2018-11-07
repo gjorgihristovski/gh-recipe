@@ -3,7 +3,6 @@ package net.gjore.recipe.services;
 import lombok.extern.slf4j.Slf4j;
 import net.gjore.recipe.domain.Recipe;
 import net.gjore.recipe.repositories.RecipeRepository;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.HashSet;
